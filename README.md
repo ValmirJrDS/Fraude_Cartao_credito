@@ -25,13 +25,13 @@ Contendo em meu currículo o diferencial de segmentos diversos, entre Forças Ar
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [Blog](https://medium.com/@valmirmoreirajunior)
+* [LinkedIn](https://www.linkedin.com/in/valmir-junior-out/)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 Analise prévia da disponibilidade de locações do Airbnb na cidade de Madrid, Epanha 
 
-* **Analise Airbnb da cidade de Madrid:** https://bit.ly/38qIWwN
+* **Fraude Cartão de Credito:** https://bit.ly/3OXOHWU
 
